@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Order Queue</string>
+    <string name="title_order_queue_outpost">Order Queue Outpost</string>
+    <string name="description_start_processing">Press Play to start processing orders</string>
+    <string name="button_start">Start</string>
+    <string name="button_pause">Pause</string>
+    <string name="queue_counter_format">Queue: %d/%d</string>
+</resources>

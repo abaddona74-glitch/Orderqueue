@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <domain-config>
+        <domain name="shared_pref" requireUserAction="true" />
+        <domain name="database" requireUserAction="true" />
+        <domain name="file" requireUserAction="true" />
+        <domain name="cache" requireUserAction="true" />
+    </domain-config>
+</data-extraction-rules>

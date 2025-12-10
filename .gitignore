@@ -1,0 +1,57 @@
+# Gradle files
+.gradle/
+build/
+/.gradle
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files
+.idea/
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Android Studio/IntelliJ
+/out
+/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+.externalNativeBuild
+
+# Signing files
+.signing/
+*.jks
+*.keystore
+
+# User-specific stuff
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/shelf
+
+# Android device files
+.idea/devices.xml
+
+# Generated files
+gen/
+capture_env.properties
+
+# Gradle cache
+.gradle
+
+# Keystore files
+*.jks
+*.keystore

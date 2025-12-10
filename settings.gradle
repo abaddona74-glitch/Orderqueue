@@ -1,0 +1,14 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolution {
+    eachArtifact {
+        goOffline false
+    }
+}
+rootProject.name = "OrderQueue"
+include ':app'
