@@ -5,10 +5,6 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-dependencyResolution {
-    eachArtifact {
-        goOffline false
-    }
-}
+
 rootProject.name = "OrderQueue"
 include ':app'
